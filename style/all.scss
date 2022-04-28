@@ -1,0 +1,27 @@
+body{
+   
+        header{
+            a{
+                color:black;
+            }
+        }
+
+        display: flex; //啟用flex
+        flex-direction: column; //設定由上到下排列
+        min-height: 100vh; // 至少佔據可視範圍的整個高度
+        main {
+            flex: 1; // 高度自動伸展至所有剩餘的空間
+           }
+        footer{
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            section{
+                a{
+                    color:white;
+                }
+            }
+        }
+       
+}
