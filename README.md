@@ -2,7 +2,7 @@
 ## 資源
 - <b>API:youtube data v3 (https://www.googleapis.com/youtube/v3/)</b>
 ## GitHub Page
--  <b>https://binbro708.github.io/Taiwan-travel---bin---done/</b>
+-  <b>https://binbro708.github.io/youtube---/</b>
 
 ## 現有功能
 -  <b>目前只有搜尋是能用的</b>
